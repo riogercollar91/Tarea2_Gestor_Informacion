@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gestor_Informacion - Top_Rated_Movies</string>
+    <string name="obtainedDataApi">Movies has been correctly obtained from the API</string>
+    <string name="insertedData">Movies has been saved correctly in the DB</string>
+    <string name="errorSaveBD">You need to obtain the movies from the API-TMDb</string>
+    <string name="dataNotInserted">These movies already exist in the DB</string>
+</resources>
